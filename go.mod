@@ -18,9 +18,9 @@ require (
 	github.com/sourcegraph/jsonrpc2 v0.0.0-20200429184054-15c2290dcb37
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
-	google.golang.org/genproto v0.0.0-20210111234610-22ae2b108f89
-	google.golang.org/grpc v1.43.0
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/genproto v0.0.0-20221118155620-16455021b5e6
+	google.golang.org/grpc v1.52.1
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 )
